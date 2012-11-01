@@ -23,29 +23,32 @@ Cistota sama, radost pohledet! Bendl, Rath, Jandak, Emmerova, Paroubek, Slegr, B
 [Tabulku a graf otevrete kliknutim zde](https://skydrive.live.com/view.aspx/Public/volby-2010-podle-janecka.xlsx?cid=e2e57a187fa3f055)
 
 <table>
+<thead>
  <tr>
-  <td>Strana</td>
-  <td>Poslancu</td>
-  <td>Procent</td>
+  <th>Strana</th>
+  <th>Poslancu</th>
+  <th>Procent</th>
  </tr>
+</thead>
+<tbody>
  <tr>
-  <td>ČSSD</td>
+  <th>ČSSD</th>
   <td align="right">14</td>
   <td align="right">50 %</td>
  </tr>
  <tr>
-  <td>KDU-ČSL</td>
-  <td align="right">1</td>
-  <td align="right">3,57 %</td>
- </tr>
- <tr>
-  <td>ODS</td>
+  <th>ODS</th>
   <td align="right">8</td>
   <td align="right">28,57 %</td>
  </tr>
  <tr>
-  <td>TOP 09</td>
+  <th>TOP 09</th>
   <td align="right">5</td>
   <td align="right">17,85 %</td>
+ </tr>
+ <tr>
+  <th>KDU-ČSL</th>
+  <td align="right">1</td>
+  <td align="right">3,57 %</td>
  </tr>
 </tbody></table>
