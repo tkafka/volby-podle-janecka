@@ -8,7 +8,8 @@
 	"dependencies": {
 		"cheerio": "*",
 		"request": "*",
-		"encoding": "*"
+		"encoding": "*",
+		"async": "*"
 	},
 	"analyze": false,
 	"devDependencies": {
