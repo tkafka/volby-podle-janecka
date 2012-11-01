@@ -1,0 +1,22 @@
+{
+	"name": "volby2010janecek",
+	"preferGlobal": "true",
+	"version": "0.1.0",
+	"author": "Tomas Kafka <tk@tomaskafka.com>",
+	"description": "",
+	"main": "./volby.js",
+	"dependencies": {
+		"cheerio": "*",
+		"request": "*",
+		"encoding": "*"
+	},
+	"analyze": false,
+	"devDependencies": {
+	},
+	"bundleDependencies": [
+	],
+	"engines": {
+		"node": ">=0.6"
+	}
+}
+
