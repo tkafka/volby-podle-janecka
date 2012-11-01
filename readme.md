@@ -20,6 +20,7 @@ Data o negativnich hlasech pochopitelne chybi, da se ale predpokladat, ze by zas
 **Vysledky:**
 
 Cistota sama, radost pohledet! Bendl, Rath, Jandak, Emmerova, Paroubek, Slegr, Bublan, Hasek, Sobotka, Drobil...
+
 [Tabulku a graf otevrete kliknutim zde](https://skydrive.live.com/view.aspx/Public/volby-2010-podle-janecka.xlsx?cid=e2e57a187fa3f055)
 
 <table>
@@ -52,3 +53,5 @@ Cistota sama, radost pohledet! Bendl, Rath, Jandak, Emmerova, Paroubek, Slegr, B
   <td align="right">3,57 %</td>
  </tr>
 </tbody></table>
+
+<iframe src="https://skydrive.live.com/embed?cid=E2E57A187FA3F055&resid=E2E57A187FA3F055%21826&authkey=ACdhu4AtrKkr15w&em=2" width="100%" height="800" frameborder="0" scrolling="no"></iframe>
