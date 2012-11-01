@@ -6,12 +6,20 @@ Jak by dopadly volby 2010 podle metodiky, kterou Janecek [popisuje v rozhovoru](
 
 > Voleb by se mohli zúčastnit i nezávislí kandidáti, pokud by nashromáždili předepsaný počet podpisů. Každý volič označí dva preferované kandidáty a navíc bude moci dát tzv. minusový hlas, který by byl pojistkou proti populismu a extremismu. Aby strana uspěla, musí vybrat kvalitní kandidáty. Tím se výrazně sníží pravděpodobnost, že se do Sněmovny dostanou zlojedi nebo zluhové – to jsou ti, kdo zlojedům se skutečnou mocí slouží. (Karel Janeček v interview, 13. 10. 2012)"
 
-**Zdroj:** Vysledky voleb 2010 ([http://www.volby.cz/pls/ps2010/ps11?xjazyk=CZ&xv=1&xt=1](http://www.volby.cz/pls/ps2010/ps11?xjazyk=CZ&xv=1&xt=1))
+**Zdroj:**
 
-**Metodika:** Z kazdeho okrsku vybereme 2 kandidaty s nejvyssim poctem preferencnich hlasu.
+Vysledky voleb 2010 ([http://www.volby.cz/pls/ps2010/ps11?xjazyk=CZ&xv=1&xt=1](http://www.volby.cz/pls/ps2010/ps11?xjazyk=CZ&xv=1&xt=1))
+
+**Metodika:**
+
+Z kazdeho okrsku vybereme 2 kandidaty s nejvyssim poctem preferencnich hlasu.
 Ve volbach do PS se voli na kraje, zvolil jsem tedy jako okrsek kraj a z kazdeho nechal do snemovny postoupit 2 kandidaty.
 
-**Vysledky:** Cistota sama, radost pohledet! 
+Data o negativnich hlasech pochopitelne chybi, da se ale predpokladat, ze by zasahly prevazne nejvice viditelneho kandidata protistrany, jako collateral damage mozna par zjedu. Forkni a nasimuluj jako domaci cviceni :).
+
+**Vysledky:**
+
+Cistota sama, radost pohledet! Bendl, Rath, Jandak, Emmerova, Paroubek, Slegr, Bublan, Hasek, Sobotka, Drobil...
 [Tabulku a graf otevrete kliknutim zde](https://skydrive.live.com/view.aspx/Public/volby-2010-podle-janecka.xlsx?cid=e2e57a187fa3f055)
 
 <table>
