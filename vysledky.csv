@@ -1,29 +1,29 @@
-cisloKraje	kraj	strana	jmeno	vek	prislusnost	hlasy	poradi	
-1	HlavnÃ­ mÄ›sto Praha	TOP 09	Schwarzenberg Karel	72	TOP 09	46087	1	
-1	HlavnÃ­ mÄ›sto Praha	ÄŒSSD	Pecina Martin  Ing. MBA	41	BEZPP	15095	2	
-2	StÅ™edoÄeskÃ½ kraj	ODS	Bendl Petr  Ing.	44	ODS	16593	1	
-2	StÅ™edoÄeskÃ½ kraj	ÄŒSSD	Rath David  MUDr.	44	ÄŒSSD	13817	2	
-3	JihoÄeskÃ½ kraj	ÄŒSSD	JandÃ¡k VÃ­tÄ›zslav  Mgr.	62	ÄŒSSD	7175	1	
-3	JihoÄeskÃ½ kraj	ODS	Doktor Michal	42	ODS	6693	2	
-4	PlzeÅˆskÃ½ kraj	ODS	PospÃ­Å¡il JiÅ™Ã­  JUDr.	34	ODS	8411	1	
-4	PlzeÅˆskÃ½ kraj	ÄŒSSD	EmmerovÃ¡ Milada  Doc. MUDr. CSc.	65	ÄŒSSD	7715	2	
-5	KarlovarskÃ½ kraj	TOP 09	Chlad Rudolf	62	TOP 09	3299	1	
-5	KarlovarskÃ½ kraj	ÄŒSSD	NovotnÃ½ Josef  PaedDr.	57	ÄŒSSD	2454	2	
-6	ÃšsteckÃ½ kraj	ÄŒSSD	Paroubek JiÅ™Ã­  Ing.	57	ÄŒSSD	18518	1	
-6	ÃšsteckÃ½ kraj	ÄŒSSD	Å lÃ©gr JiÅ™Ã­	38	ÄŒSSD	12448	2	
-7	LibereckÃ½ kraj	ÄŒSSD	Ploc Pavel	45	ÄŒSSD	5594	1	
-7	LibereckÃ½ kraj	TOP 09	FarskÃ½ Jan  Mgr.	30	SLK	3425	2	
-8	KrÃ¡lovÃ©hradeckÃ½ kraj	TOP 09	Heger LeoÅ¡  doc. MUDr. CSc.	62	TOP 09	7956	1	
-8	KrÃ¡lovÃ©hradeckÃ½ kraj	ODS	HornÃ­kovÃ¡ ZdeÅˆka  Mgr.	57	ODS	4635	2	
-9	PardubickÃ½ kraj	TOP 09	SkalickÃ½ JiÅ™Ã­  prim. PharmDr. Ph.D.	55	BEZPP	5598	1	
-9	PardubickÃ½ kraj	KDU-ÄŒSL	LuxovÃ¡ VÄ›ra	54	KDU-ÄŒSL	4830	2	
-10	VysoÄina	ÄŒSSD	Bublan FrantiÅ¡ek  Mgr.	59	BEZPP	6211	1	
-10	VysoÄina	ODS	NÄ›mcovÃ¡ Miroslava	57	ODS	5278	2	
-11	JihomoravskÃ½ kraj	ÄŒSSD	HaÅ¡ek Michal  Mgr.	34	ÄŒSSD	25181	1	
-11	JihomoravskÃ½ kraj	ÄŒSSD	Sobotka Bohuslav  Mgr.	38	ÄŒSSD	23962	2	
-12	OlomouckÃ½ kraj	ÄŒSSD	HolÃ­k Pavel  MUDr.	53	ÄŒSSD	6938	1	
-12	OlomouckÃ½ kraj	ODS	BohÃ¡Ä ZdenÄ›k  Mgr.	52	ODS	5509	2	
-13	ZlÃ­nskÃ½ kraj	ODS	NeÄas Petr  RNDr.	45	ODS	13221	1	
-13	ZlÃ­nskÃ½ kraj	ÄŒSSD	Å kromach ZdenÄ›k  Ing.	53	ÄŒSSD	8771	2	
-14	MoravskoslezskÃ½ kraj	ÄŒSSD	ZaorÃ¡lek LubomÃ­r  PhDr.	53	ÄŒSSD	23712	1	
-14	MoravskoslezskÃ½ kraj	ODS	Drobil Pavel  Mgr.	38	ODS	7744	2	
+cisloKraje;kraj;strana;jmeno;vek;prislusnost;hlasy;poradi
+1;Hlavní mìsto Praha;TOP 09;Schwarzenberg Karel;72;TOP 09;46087;1
+1;Hlavní mìsto Praha;ÈSSD;Pecina Martin  Ing. MBA;41;BEZPP;15095;2
+2;Støedoèeskı kraj;ODS;Bendl Petr  Ing.;44;ODS;16593;1
+2;Støedoèeskı kraj;ÈSSD;Rath David  MUDr.;44;ÈSSD;13817;2
+3;Jihoèeskı kraj;ÈSSD;Jandák Vítìzslav  Mgr.;62;ÈSSD;7175;1
+3;Jihoèeskı kraj;ODS;Doktor Michal;42;ODS;6693;2
+4;Plzeòskı kraj;ODS;Pospíšil Jiøí  JUDr.;34;ODS;8411;1
+4;Plzeòskı kraj;ÈSSD;Emmerová Milada  Doc. MUDr. CSc.;65;ÈSSD;7715;2
+5;Karlovarskı kraj;TOP 09;Chlad Rudolf;62;TOP 09;3299;1
+5;Karlovarskı kraj;ÈSSD;Novotnı Josef  PaedDr.;57;ÈSSD;2454;2
+6;Ústeckı kraj;ÈSSD;Paroubek Jiøí  Ing.;57;ÈSSD;18518;1
+6;Ústeckı kraj;ÈSSD;Šlégr Jiøí;38;ÈSSD;12448;2
+7;Libereckı kraj;ÈSSD;Ploc Pavel;45;ÈSSD;5594;1
+7;Libereckı kraj;TOP 09;Farskı Jan  Mgr.;30;SLK;3425;2
+8;Královéhradeckı kraj;TOP 09;Heger Leoš  doc. MUDr. CSc.;62;TOP 09;7956;1
+8;Královéhradeckı kraj;ODS;Horníková Zdeòka  Mgr.;57;ODS;4635;2
+9;Pardubickı kraj;TOP 09;Skalickı Jiøí  prim. PharmDr. Ph.D.;55;BEZPP;5598;1
+9;Pardubickı kraj;KDU-ÈSL;Luxová Vìra;54;KDU-ÈSL;4830;2
+10;Vysoèina;ÈSSD;Bublan František  Mgr.;59;BEZPP;6211;1
+10;Vysoèina;ODS;Nìmcová Miroslava;57;ODS;5278;2
+11;Jihomoravskı kraj;ÈSSD;Hašek Michal  Mgr.;34;ÈSSD;25181;1
+11;Jihomoravskı kraj;ÈSSD;Sobotka Bohuslav  Mgr.;38;ÈSSD;23962;2
+12;Olomouckı kraj;ÈSSD;Holík Pavel  MUDr.;53;ÈSSD;6938;1
+12;Olomouckı kraj;ODS;Boháè Zdenìk  Mgr.;52;ODS;5509;2
+13;Zlínskı kraj;ODS;Neèas Petr  RNDr.;45;ODS;13221;1
+13;Zlínskı kraj;ÈSSD;Škromach Zdenìk  Ing.;53;ÈSSD;8771;2
+14;Moravskoslezskı kraj;ÈSSD;Zaorálek Lubomír  PhDr.;53;ÈSSD;23712;1
+14;Moravskoslezskı kraj;ODS;Drobil Pavel  Mgr.;38;ODS;7744;2
